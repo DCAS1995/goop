@@ -9,7 +9,7 @@ import (
 	"sort"
 	"strings"
 
-	"code.google.com/p/go.tools/go/vcs"
+	"%s#code.google.com/p/#github.com/google/#g"
 
 	"github.com/nitrous-io/goop/colors"
 	"github.com/nitrous-io/goop/parser"
