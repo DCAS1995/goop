@@ -9,7 +9,7 @@ import (
 	"sort"
 	"strings"
 
-	"%s#code.google.com/p/#github.com/google/#g"
+	"github.com/golang/go"
 
 	"github.com/nitrous-io/goop/colors"
 	"github.com/nitrous-io/goop/parser"
